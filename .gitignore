@@ -1,0 +1,20 @@
+# Binarios Go
+goserver
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Archivos Docker/test
+*.test
+*.out
+
+# Dependencias Go
+vendor/
+
+# IDE
+.vscode/
+.idea/
+
+# Sistema
+.DS_Store
